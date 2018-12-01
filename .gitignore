@@ -1,0 +1,7 @@
+
+/.vscode/settings.json
+.Rproj.user
+/redditbot/scratch.py
+/qna/.Rhistory
+/node_modules
+/docs/.vuepress/dist
