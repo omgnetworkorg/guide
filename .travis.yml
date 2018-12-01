@@ -1,0 +1,20 @@
+language: node_js
+node_js:
+  - "10"
+install:
+  - yarn install
+script:
+  - yarn run build
+cache:
+  directories:
+    - "node_modules"
+notifications:
+  email: false
+deploy:
+  provider: pages
+  skip-cleanup: true
+  local_dir: docs/.vuepress/dist
+  github-token: $GITHUB_TOKEN  # see settings page of the repo (secure variable)
+  keep-history: true
+  on:
+    branch: master
