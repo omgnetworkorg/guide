@@ -2,7 +2,7 @@
 title: Get Started
 ---
 
-## What is OMG ?
+## What is OMG?
 
 OMG is the answer to a fundamental coordination problem amongst payment processors, gateways and financial institutions. By enabling decentralized exchange at high volume and low cost, OMG will provide a **next-generation value transfer service operating across currencies and asset types**, and across national borders and corporate ledgers.
 

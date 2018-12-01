@@ -4,13 +4,30 @@ module.exports = {
   base: '/guide/',
   themeConfig: {
     sidebar: {
-
-      
-      '/guide/': [
+      // '/deep-dive/': [
+      //   'dex',
+      //   'ewallet',
+      //   'plasma',
+      //   'cash-in-out',
+      //   'proof-of-stake',
+      //   'roadmap',
+      // ],
+      '/resources/': [
+        'videos',
+        'links',
+        'glossary',
+        'amas',
+      ],
+      '/contribute/': [
+        '',
+        'code-of-conduct',
+        'contributors',
+      ],
+      '/': [
         {
           collapsable: false,
           children: [
-            '',
+            'get-started',
             'history',
             'vision',
             'basics',
@@ -29,37 +46,15 @@ module.exports = {
           title: 'OMG Community',
           collapsable: false,
           children: [
-            'omise',
-            'business-development',
-            'community',
+            'community/omise',
+            'community/business-development',
+            'community/social-medias',
           ]
         },
       ],
-      // '/deep-dive/': [
-      //   'dex',
-      //   'ewallet',
-      //   'plasma',
-      //   'cash-in-out',
-      //   'proof-of-stake',
-      //   'roadmap',
-      // ],
-      '/resources/': [
-        'videos',
-        'links',
-        'glossary',
-        'faq',
-        'ama',
-      ],
-      '/contribute/': [
-        '',
-        'code-of-conduct',
-        'contributors',
-      ],
-      '/': false,
-      
     },
     nav: [
-      { text: 'Guide', link: '/guide/' },
+      { text: 'Guide', link: '/get-started' },
       { text: 'Deep Dive', link: '/deep-dive/' },
       {
         text: 'Resources',
@@ -67,8 +62,7 @@ module.exports = {
           { text: 'Videos', link: '/resources/videos' },
           { text: 'Links', link: '/resources/links' },
           { text: 'Glossary', link: '/resources/glossary' },
-          { text: 'FAQ', link: '/resources/faq' },
-          { text: 'AMAs', link: '/resources/ama' },
+          { text: 'AMAs', link: '/resources/amas' },
         ]
       },
       { text: 'Contribute', link: '/contribute/' },

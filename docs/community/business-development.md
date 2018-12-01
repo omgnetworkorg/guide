@@ -9,12 +9,7 @@ It becomes difficult to separate community engagement from business development 
 Implementing this approach, **OmiseGO has done no paid marketing** (including bounties) and provided no discounts during its crowdsale to anyone, including VCs and media groups. **Nonetheless, the OmiseGO subreddit and Twitter account have the highest subscription rates of any Ethereum project so far.** 
 
 
-## Partnerships
-
-> TBD : list all "official" partnerships and maybe point to a resource that list all speculative partnerships
-
-
-## Official statement
+### Official statement
 
 _The following is an official statement made by OmiseGO._
 

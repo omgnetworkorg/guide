@@ -3,7 +3,10 @@
     <h6>Contributed by</h6>
     <div class="contributor" @click="goToProfile">
       <img :src="contributor.avatar"/>
-      <span>{{ contributor.name }}</span>
+      <span>
+        {{ contributor.name }}
+        <span>{{ contributor.oneliner }}</span>
+      </span>
     </div>
   </div>
 </template>
@@ -39,18 +42,25 @@ export default {
   h6 {
     opacity: .4;
     font-weight: normal;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     margin-top: 15px;
   }
   .contributor {
     display: inline-block;
     cursor: pointer;
+    display: inline-flex;
     img {
-      height: 22px;
-      vertical-align:middle
+      height: 26px;
+      margin-right: 5px;
     }
     span {
       font-size: 11px;
+      span {
+        opacity: .5;
+        display: block;
+        font-size: 9px;
+        padding-top: 1px;
+      }
     }
   }
 }

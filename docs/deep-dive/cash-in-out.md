@@ -3,7 +3,7 @@
 > TBD
 
 
-## What is Cash in/out ?
+## What is Cash in/out?
 
 > TBD
 

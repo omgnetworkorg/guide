@@ -1,5 +1,5 @@
 ---
-title: What is the OMG Network ?
+title: What is the OMG Network?
 ---
 
 # About the OMG network

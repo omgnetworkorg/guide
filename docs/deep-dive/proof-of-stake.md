@@ -4,7 +4,7 @@ title: Proof of Stake
 
 # Proof of Stake Consensus Mechanism
 
-## What does staking means ?
+## What does staking means?
 
 ### Proof of Stake on OMG Network
 

@@ -3,7 +3,7 @@
 
 The OmiseGO blockchain team has been involved in the Ethereum community from its very beginning. Starting in 2015, Omise Blockchain Lab began research work focusing primarily on scalability. By the end of 2016, research had expanded into proof-of-stake (PoS) consensus design and the OmiseGO project was launched in 2017.
 
-## ​How was OmiseGO launched ?​
+## ​How was OmiseGO launched?​
 
 Funds were raised through the sale of OMG tokens in June 2017. However, a token presale offered to the earliest OmiseGO community (with no preferential pricing for anybody) received such high interest that the **goal amount of $25 million** was raised just through that. 
 

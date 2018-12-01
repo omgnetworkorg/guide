@@ -1,5 +1,5 @@
 ---
-title: How to contribute ?
+title: How to contribute?
 ---
 
 The following is a set of guidelines for contributing to the OMG Knowledge Base website and its educational content. 

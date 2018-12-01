@@ -17,7 +17,7 @@ An eWallet is first and foremost a web application. As a means of interacting wi
 The full suite of eWallet tools allows anyone to build and integrate a front end interface to mint, deposit, transact, track and withdraw digital assets; with tools for providers to customize apps to their specific needs.
 
 
-## What are integration libraries (SDK) ?
+## What are integration libraries (SDK)?
 
 The integration libraries are another tool to help developers easily build on OMG. These exist in the layer between web apps and the blockchain itself, providing the end to end infrastructure for integrating an end-user application, from application to library to watcher to child chain. The eWallet, as a web app, will also make use of this infrastructure to connect to the blockchain.
 
