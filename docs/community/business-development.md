@@ -23,52 +23,42 @@ We've also been developing partnerships with exchange venues (no, we can't tell 
 
 **Hoard Exchange**
 
-Hoard Exchange will be a marketplace whereby users can freely buy, rent, sell or trade gaming assets.
-
-Source: https://blog.hoard.exchange/omisego-hoard-creating-a-truly-seamless-game-marketplace-bdebe1b2d272
+Hoard Exchange will be a marketplace whereby users can freely buy, rent, sell or trade gaming assets. [Source](https://blog.hoard.exchange/omisego-hoard-creating-a-truly-seamless-game-marketplace-bdebe1b2d272)
 
 **MakerDAO**
 
-MakerDAO is an Ethereum stability platform comprised of a stablecoin, a governance coin, and a decentralized governance model.
-
-Source: https://medium.com/makerdao/makerdao-and-omisego-announcing-dai-and-omg-collaborations-23600a080046
+MakerDAO is an Ethereum stability platform comprised of a stablecoin, a governance coin, and a decentralized governance model. [Source](https://medium.com/makerdao/makerdao-and-omisego-announcing-dai-and-omg-collaborations-23600a080046)
 
 **Status**
 
-Status is an Ethereum light client designed to bring the benefits of the Blockchain to everyday smartphone users. 
-
-Source: https://blog.status.im/status-partners-with-omisego-565577d2f72
+Status is an Ethereum light client designed to bring the benefits of the Blockchain to everyday smartphone users. [Source](https://blog.status.im/status-partners-with-omisego-565577d2f72)
 
 **MVL**
 
-MVL is the mobility blockchain protocol behind TADA, Singapore’s first blockchain ride-hailing service.
-
-Source: https://mvlchain.io/blog?path=https://blog2.mvlchain.io/index.php/2018/11/14/2668/
+MVL is the mobility blockchain protocol behind TADA, Singapore’s first blockchain ride-hailing service. [Source](https://mvlchain.io/blog?path=https://blog2.mvlchain.io/index.php/2018/11/14/2668/)
 
 ### OMG SDK Deployments
 
 **ElectrifyAsia**
 
-Source: https://electrify.asia/faqs/
+[Source](https://electrify.asia/faqs/)
 
 **HubrisOne**
 
-Source: https://medium.com/@hubrisone/hubrisone-omisego-partnership-f0def0acd3ff
+[Source](https://medium.com/@hubrisone/hubrisone-omisego-partnership-f0def0acd3ff)
 
 ### MOUs
 
 **Shinhan Bank** (OmiseGO)
 
-Source: https://www.omise.co/omise-and-omisego-sign-mou-with-shinhancard-to-explore-opportunities-for-fintech-and-blockchain-initiatives
+[Source](https://www.omise.co/omise-and-omisego-sign-mou-with-shinhancard-to-explore-opportunities-for-fintech-and-blockchain-initiatives)
 
 **Electronic Transactions Development Agency (ETDA) of Thailand** (Omise)
 
-Source: https://www.etda.or.th/content/etda-signs-mou-with-omise-for-driving-national-digital-id.html
+[Source](https://www.etda.or.th/content/etda-signs-mou-with-omise-for-driving-national-digital-id.html)
 
 ### Government Outreach
 
 **APEC**
 
-In April 2018, OmiseGO engaged in discussions with APEC, strategizing on how a regional sandbox for regulators, financial institutions & fintech organizations can better drive collaborative innovation & adoption.
-
-Source: https://twitter.com/omise_go/status/986075972104409088 
+In April 2018, OmiseGO engaged in discussions with APEC, strategizing on how a regional sandbox for regulators, financial institutions & fintech organizations can better drive collaborative innovation & adoption. [Source](https://twitter.com/omise_go/status/986075972104409088)
