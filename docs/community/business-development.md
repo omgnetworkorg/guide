@@ -41,24 +41,38 @@ MVL is the mobility blockchain protocol behind TADA, Singapore’s first blockch
 
 **ElectrifyAsia**
 
+ELECTRIFY is developing an Asia-centric energy ecosystem that runs on the blockchain. 
 [Source](https://electrify.asia/faqs/)
 
 **HubrisOne**
 
+HubrisOne is a cryptocurrency friendly digital bank.
 [Source](https://medium.com/@hubrisone/hubrisone-omisego-partnership-f0def0acd3ff)
 
 ### MOUs
 
 **Shinhan Bank** (OmiseGO)
 
+Shinhan Bank (SHB) is the second largest commercial bank in South Korea in terms of total assets and market capitalization. 
 [Source](https://www.omise.co/omise-and-omisego-sign-mou-with-shinhancard-to-explore-opportunities-for-fintech-and-blockchain-initiatives)
 
 **Electronic Transactions Development Agency (ETDA) of Thailand** (Omise)
 
+The ETDA of Thailand was set up under the Ministry of Information and Communication Technology to function as the main agency responsible for developing, promoting and supporting electronic transactions.
 [Source](https://www.etda.or.th/content/etda-signs-mou-with-omise-for-driving-national-digital-id.html)
 
 ### Government Outreach
 
 **APEC**
 
-In April 2018, OmiseGO engaged in discussions with APEC, strategizing on how a regional sandbox for regulators, financial institutions & fintech organizations can better drive collaborative innovation & adoption. [Source](https://twitter.com/omise_go/status/986075972104409088)
+On April 16, 2018, OmiseGO engaged in discussions with APEC, strategizing on how a regional sandbox for regulators, financial institutions & fintech organizations can better drive collaborative innovation & adoption. [Source](https://twitter.com/omise_go/status/986075972104409088)
+
+**Thailand SEC**
+
+On February 22, 2018, OmiseGO engaged in discussions with the Thailand SEC regarding initial coin offerings and exchanges.
+[Source](https://twitter.com/jun_omise/status/966645232124149760?lang=en)
+
+**Central Bank of Thailand**
+
+On August 15, 2017, OmiseGO engaged in discussions with the Central Bank of Thailand and discussed the future of the Thai econonomy.
+[Source](https://twitter.com/omise_go/status/897472052457684993)
