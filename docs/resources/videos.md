@@ -74,6 +74,8 @@ In order to overcome these difficulties, it would be beneficial to standardize t
 
 ## Dear bank, where did my 100 bucks go?
 
+<Contributor name="Jager_Master"/>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mC--g57lylQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Vansa begins her presentation by outlining a major pain-point that exists within the online banking industry: coordination and interoperability. Specifically, the financial and time costs that are incurred as a result of the current antiquated infrastructure. At present, it is a greatly labored process, when wanting to transact funds between two different banking services. Sending funds across boarders and jurisdictions is difficult because:
