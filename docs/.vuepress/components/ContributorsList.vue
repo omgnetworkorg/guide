@@ -1,9 +1,14 @@
 <template>
   <div class="contributor-list">
-    <div v-for="contributor in contributors">
+    <div 
+      v-for="contributor in contributors"
+      :style="{'background-image': `url(${contributor.avatar})`}"
+    >
       <a :name="contributor.name"/>
-      <h2>{{ contributor.name }}</h2>
-      <img :src="contributor.avatar"/>
+      <h3>{{ contributor.name }}</h3>
+      <span v-if="contributor.oneliner">
+        {{ contributor.oneliner }}
+      </span>
     </div>
   </div>
 </template>
@@ -19,9 +24,16 @@ export default {
 </script>
 
 <style lang="styl">
-.contributor-list {
-  img {
-    width: 120px;
+.contributor-list div {
+  height: 60px;
+  background-size: 60px 60px;
+  background-position: top left;
+  background-repeat: no-repeat;
+  padding-left: 70px;
+  margin-top: 30px;
+  h3 {
+    margin: 0;
+    padding: 5px 0 5px;
   }
 }
 </style>

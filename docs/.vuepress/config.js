@@ -18,11 +18,6 @@ module.exports = {
         'glossary',
         'amas',
       ],
-      '/contribute/': [
-        '',
-        'code-of-conduct',
-        'contributors',
-      ],
       '/': [
         {
           collapsable: false,
@@ -65,7 +60,7 @@ module.exports = {
           { text: 'AMAs', link: '/resources/amas' },
         ]
       },
-      { text: 'Contribute', link: '/contribute/' },
+      { text: 'Contribute', link: '/contribute' },
     ],
     docsDir: 'docs',
     editLinks: true,
@@ -74,7 +69,7 @@ module.exports = {
   configureWebpack: {
     resolve: {
       alias: {
-        '@assets': 'assets'
+        '@assets': '.vuepress/assets'
       }
     }
   },
