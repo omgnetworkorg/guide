@@ -1,5 +1,7 @@
 # OMG Network Guide
 
+[![Join the chat at https://gitter.im/OMGnetwork/guide](https://badges.gitter.im/OMGnetwork/guide.svg)](https://gitter.im/OMGnetwork/guide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The OMG Network Guide was conceived as a joint effort between the OMG community and OmiseGO project team to support high-quality  discourse and references for the [OMG Network](https://omisego.network/). The OMG Network Guide is maintained by [community contributors](https://github.com/OMGnetwork/guide/graphs/contributors) and reflects an ongoing collection of curated information on the status and development of the OMG Network.
 
 ## Use
