@@ -10,8 +10,8 @@ export default {
     avatar: 'https://avatars.githubusercontent.com/Ro5s',
   },
   Jager_Master: {
-    name: '[TBD]',
-    oneliner: '[TBD]',
+    name: 'Jager_Master',
+    oneliner: '',
     avatar: 'https://avatars.githubusercontent.com/Jager-Master',
   },
 }

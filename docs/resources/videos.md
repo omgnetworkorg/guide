@@ -74,8 +74,6 @@ In order to overcome these difficulties, it would be beneficial to standardize t
 
 ## Dear bank, where did my 100 bucks go?
 
-<Contributor name="Jager_Master"/>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mC--g57lylQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Vansa begins her presentation by outlining a major pain-point that exists within the online banking industry: coordination and interoperability. Specifically, the financial and time costs that are incurred as a result of the current antiquated infrastructure. At present, it is a greatly labored process, when wanting to transact funds between two different banking services. Sending funds across boarders and jurisdictions is difficult because:
@@ -99,3 +97,5 @@ Despite the advantages of eWallets and their rapid adoption throughout the Asian
 Any solution to these problems must avoid transferring the financial power dynamic of old, onto the new technological landscape, and ensure to mitigate any long term risks of monopoly. A potential framework for doing so, would embrace interoperability through an open-source public infrastructure, and would enable the transaction of any asset, anytime, anywhere. A shared-ownership model of a public infrastructure would have perfect incentive alignment with the goal of inclusion, as there would be no 'gatekeepers' elected into positions of power. Blockchain technology as a base-layer for such a solution, would allow for transparency and tracking of payments, without the reliance on a third party legacy system. In order to maintain these features, while facilitating the seamless transition between currencies and different tokenized values, this payment rail would take the form of a permissionless decentralized exchange. The result of building an eWallet on this infrastructure for the end user, would be the ability to transact using any currency, with no uncertainty in exchange rate.
 
 In an attempt to solve these problems, while maintaining all necessary elements of a public permissionless decentralized exchange, OmiseGo are building two open source products: a white-label eWallet SDK, and the OMG network (a massively scalable decentralized exchange.)
+
+<Contributor name="Jager_Master"/>

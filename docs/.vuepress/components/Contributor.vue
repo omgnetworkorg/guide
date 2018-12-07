@@ -5,7 +5,7 @@
       <img :src="contributor.avatar"/>
       <span>
         {{ contributor.name }}
-        <span>{{ contributor.oneliner }}</span>
+        <span v-if="contributor.oneliner">{{ contributor.oneliner }}</span>
       </span>
     </div>
   </div>
@@ -46,7 +46,6 @@ export default {
     margin-top: 15px;
   }
   .contributor {
-    display: inline-block;
     cursor: pointer;
     display: inline-flex;
     img {
@@ -54,6 +53,10 @@ export default {
       margin-right: 5px;
     }
     span {
+      display: flex;
+      flex-direction: column;
+      align-items: left;
+      justify-content: center;
       font-size: 11px;
       span {
         opacity: .5;
