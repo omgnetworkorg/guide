@@ -9,6 +9,11 @@ export default {
     oneliner: 'Crisper of docs',
     avatar: 'https://avatars.githubusercontent.com/Ro5s',
   },
+  pwolf88: {
+    name: 'pwolf88',
+    oneliner: '',
+    avatar: 'https://www.redditstatic.com/avatars/avatar_default_17_545452.png',
+  },
   Jager_Master: {
     name: 'Jager_Master',
     oneliner: '',
