@@ -10,7 +10,7 @@ The OMG Network Guide contains general and specific information related to progr
 
 ## Contribution
 
-Because of the Open Source nature of the OMG Network Guide, we are actively seeking [contributions](https://github.com/OMGnetwork/guide/blob/master/docs/contribute.md) from people who have a desire to help this project reach its full potential. Contributors and project maintainers must uphold the rules set forth in our [Code of Conduct](https://github.com/OMGnetwork/guide/blob/master/docs/contribute/code-of-conduct.md).
+Because of the Open Source nature of the OMG Network Guide, we are actively seeking [contributions](https://github.com/OMGnetwork/guide/blob/master/docs/contribute.md) from people who have a desire to help this project reach its full potential. Contributors and project maintainers must uphold the rules set forth in our [Code of Conduct](https://github.com/OMGnetwork/guide/blob/master/docs/code-of-conduct.md).
 
 ## Requirements
 
