@@ -11,7 +11,7 @@ export default {
   },
   pwolf88: {
     name: 'pwolf88',
-    oneliner: '',
+    oneliner: 'Computer scientist & Crypto writer',
     avatar: 'https://www.redditstatic.com/avatars/avatar_default_17_545452.png',
   },
   Jager_Master: {
