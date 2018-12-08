@@ -15,8 +15,8 @@ export default {
     avatar: 'https://www.redditstatic.com/avatars/avatar_default_17_545452.png',
   },
   Jager_Master: {
-    name: 'Jager_Master',
-    oneliner: '',
+    name: 'Paul Wadsworth',
+    oneliner: 'Gym gains and crypto losses',
     avatar: 'https://avatars.githubusercontent.com/Jager-Master',
   },
 }
