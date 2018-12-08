@@ -15,7 +15,7 @@ Through the OMG network, anyone will be able to conduct **real-time, peer-to-pee
 
 ## OMG / Omise / OmiseGO
 
-If you are confused around the naming of the different entities gravitating around this project, see below :
+If you are confused around the naming of the different entities gravitating around this project, see below:
 
 - **OMG** is both the name of the network, and the ticker of the [ERC 20 token](basics.html#omg-token-function) that will be used to secure the network.
 
@@ -29,7 +29,7 @@ The network will be _public_ and _open source_, so **neither Omise nor OmiseGO w
 
 ## Why do we need OMG?
 
-Ultimately, blockchain solves one problem : **coordination**.
+Ultimately, blockchain solves one problem: **coordination**.
 
 The central paradox of human society is that we need to conduct transactions on a mass scale to accomplish our ends, but are simultaneously unwilling to trust anyone outside our immediate circle.
 
