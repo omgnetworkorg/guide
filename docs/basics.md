@@ -1,6 +1,6 @@
 # Basics
 
-Before reading further, **we strongly advise to get familiar with the following concepts**, they are the foundation of the OMG Network, and are reffered to in several pages of this guide. To comprehend the mechanics of OMG and its different components, you will need a solid understanding of these concepts.
+Before reading further, **we strongly advise to get familiar with the following concepts**, they are the foundation of the OMG Network, and are referred to in several pages of this guide. To comprehend the mechanics of OMG and its different components, you will need a solid understanding of these concepts.
 
 ## Decentralized Network
 
@@ -19,7 +19,7 @@ Proof of Stake (PoS) and Proof of Work (PoW) are enforcement mechanisms to valid
 
 **Proof of Work** requires miners (validators) to spend an enormous amount of computing power in order to validate a set of transactions. 
 
-**Proof of Stake** requires a validator to "stake" their tokens in order to validate. Essentially, validators put their tokens in a security deposit. If they validate actively and honestly they are rewarded, if they behave dishonestly they lose tokens. Both systems are designed to make faulty behavior cost more than it's worth :
+**Proof of Stake** requires a validator to "stake" their tokens in order to validate. Essentially, validators put their tokens in a security deposit. If they validate actively and honestly they are rewarded, if they behave dishonestly they lose tokens. Both systems are designed to make faulty behavior cost more than it's worth:
 
 The brute computational strength needed to mine a block in a PoW system represents both a substantial investment in hardware and a great deal of energy consumed. The first miner to demonstrate correct PoW on a mined block receives a block reward as well as transaction fees associated with that block. That investment is a sunk cost regardless of the outcome; miners who misbehave (e.g. submitting incorrect proofs) will expend resources and see no returns, while honest ones have a chance of collecting block rewards that make them their money back and then some.
 
