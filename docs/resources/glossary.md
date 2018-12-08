@@ -437,3 +437,5 @@ A user's immediate charge and control over a property, e.g. fund custody
 ### User Experience (UX)
 
 User experience design is the process of enhancing user satisfaction with a product by improving the usability, accessibility, and pleasure provided in the interaction with the product.
+
+<Contributor name="pwolf88"/>
