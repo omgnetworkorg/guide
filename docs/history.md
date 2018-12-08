@@ -12,7 +12,7 @@ It is interesting to note that far **more money could have been raised**, but th
 ## Token allocation & airdrop
 
 **Total supply created = 140,245,398.245132780789239631**  
-[_https://etherscan.io/token/OmiseGO_](https://etherscan.io/token/OmiseGO)__
+[_https://etherscan.io/token/OmiseGO_](https://etherscan.io/token/OmiseGO)
 
 During the crowdsale period ("OMG token creation period"), up to a total of USD $25 million (Maximal Launch Quantity) equivalent of OMG were to be created by the smart contract, all equal value and functionality, but divided by the smart contract into different pools, for both public and private distribution:
 
