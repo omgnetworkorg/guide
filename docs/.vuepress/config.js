@@ -34,7 +34,6 @@ module.exports = {
           children: [
             'network/',
             'network/adoption',
-            'network/benefits',
           ]
         },
         {
