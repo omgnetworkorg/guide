@@ -47,7 +47,7 @@ ELECTRIFY is developing an Asia-centric energy ecosystem that runs on the blockc
 
 **HubrisOne**
 
-HubrisOne is a cryptocurrency friendly digital bank.
+HubrisOne is a cryptocurrency-friendly digital bank.
 [Source](https://medium.com/@hubrisone/hubrisone-omisego-partnership-f0def0acd3ff)
 
 ### MOUs
@@ -75,5 +75,5 @@ On February 22, 2018, OmiseGO engaged in discussions with the Thailand SEC regar
 
 **Central Bank of Thailand**
 
-On August 15, 2017, OmiseGO engaged in discussions with the Central Bank of Thailand and discussed the future of the Thai econonomy.
+On August 15, 2017, OmiseGO engaged in discussions with the Central Bank of Thailand regarding the future of the Thai econonomy.
 [Source](https://twitter.com/omise_go/status/897472052457684993)
