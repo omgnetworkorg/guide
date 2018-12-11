@@ -5,7 +5,7 @@ actionText: Get Started →
 actionLink: /get-started.html
 ---
 
-This guide provides an extensive non-technical introduction to the [OMG Network](https://omisego.network/), and is maintained by the community.
+This guide provides an extensive non-technical introduction to the [OMG Network](https://omisego.network/) and is maintained by the OMG community.
 
 <div class="features">
   <div class="feature">
