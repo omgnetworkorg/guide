@@ -3,6 +3,7 @@
 OmiseGO takes an integrated approach to community engagement and business development. 
 
 > "True crypto projects build communities, not consumers."
+> - OmiseGO Team
 
 It becomes difficult to separate community engagement from business development when simultaneously creating a completely free and open source product and an n-sided marketplace. Success depends on the health of a complex ecosystem of partners and collaborators, for a product that is equally aimed at enterprise providers and individuals operating entirely free of intermediaries.
 
