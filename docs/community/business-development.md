@@ -50,6 +50,16 @@ ELECTRIFY is developing an Asia-centric energy ecosystem that runs on the blockc
 HubrisOne is a cryptocurrency-friendly digital bank.
 [Source](https://medium.com/@hubrisone/hubrisone-omisego-partnership-f0def0acd3ff)
 
+**Pesabase**
+
+Pesabase is set of remittance, payment and banking solutions that leverages blockchain to provide financial simplification and inclusion in Africa.
+[Source](https://pesabase.com/product.html)
+
+**Hubii Network**
+
+Hubii Network is a decentralized content marketplace serving content to 50 million customers.
+[Source](https://medium.com/@jacobotoll/hubii-network-to-use-omisego-for-payments-81d5d7313b3e)
+
 ### MOUs
 
 **Shinhan Bank** (OmiseGO)
@@ -75,5 +85,5 @@ On February 22, 2018, OmiseGO engaged in discussions with the Thailand SEC regar
 
 **Central Bank of Thailand**
 
-On August 15, 2017, OmiseGO engaged in discussions with the Central Bank of Thailand regarding the future of the Thai econonomy.
+On August 15, 2017, OmiseGO engaged in discussions with the Central Bank of Thailand regarding the future of the Thai economy.
 [Source](https://twitter.com/omise_go/status/897472052457684993)
